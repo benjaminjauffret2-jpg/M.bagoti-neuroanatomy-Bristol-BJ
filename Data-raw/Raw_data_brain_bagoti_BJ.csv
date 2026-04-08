@@ -1,4 +1,4 @@
-Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
+Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume;Problematic_zone
 1;R12;R;Exterior;0;228489852;955637643.1;
 1;R12;R;Lamina;1;26337;110152.0631;
 1;R12;R;Medula;2;293510;1227578.39;
@@ -7,7 +7,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 1;R12;R;MB_lobe;5;426962;1785729.019;
 1;R12;R;Noduli;6;7534;31510.25719;
 1;R12;R;PB;7;14628;61180.25514;
-1;R12;R;central_complex_body;8;68003;284416.249;
+1;R12;R;Central_complex_body;8;68003;284416.249;
 1;R12;R;AL;9;472985;1978215.954;
 1;R12;R;MB_lobe2;10;378941;1584885.635;
 1;R12;R;RCB;11;5040367;21080868.13;
@@ -16,7 +16,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 2;R13;R;Medula;3;184321;1370480.502;
 2;R13;R;Lobula;4;54313;403833.0276;
 2;R13;R;PB;5;7508;55824.17417;
-2;R13;R;central_complex_body;6;36760;273321.3429;
+2;R13;R;Central_complex_body;6;36760;273321.3429;
 2;R13;R;MB_lobe;7;218891;1627518.555;
 2;R13;R;Calyces;8;361427;2687315.37;
 2;R13;R;AL;9;308988;2297416.08;
@@ -43,7 +43,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 4;N14;N;MB_lobe;5;283983;1726240.439;
 4;N14;N;MB_lobe2;6;280868;1707305.366;
 4;N14;N;Noduli;7;5002;30405.5337;
-4;N14;N;central_complex_body;8;57129;347268.6395;
+4;N14;N;Central_complex_body;8;57129;347268.6395;
 4;N14;N;PB;9;8271;50276.72316;
 4;N14;N;AL;10;411402;2500779.163;
 4;N14;N;RCB;11;3704125;22516173.03;
@@ -55,7 +55,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 5;R14;R;MB_lobe;5;287169;1734310.549;
 5;R14;R;MB_lobe2;6;305603;1845639.699;
 5;R14;R;Noduli;7;4882;29484.04633;
-5;R14;R;central_complex_body;8;66913;404110.1992;
+5;R14;R;Central_complex_body;8;66913;404110.1992;
 5;R14;R;PB;9;11132;67229.90655;
 5;R14;R;AL;10;405853;2451083.297;
 5;R14;R;RCB;11;3904656;23581535.93;
@@ -67,7 +67,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 6;R15;R;MB_lobe;5;354152;1633281.977;GNG
 6;R15;R;MB_lobe2;6;356411;1643700.058;GNG
 6;R15;R;Noduli;7;3876;17875.37821;GNG
-6;R15;R;central_complex_body;8;65998;304370.2815;GNG
+6;R15;R;Central_complex_body;8;65998;304370.2815;GNG
 6;R15;R;PB;9;15266;70403.90191;GNG
 6;R15;R;AL;10;457633;2110516.759;GNG
 6;R15;R;RCB;11;3245128;14965915.98;GNG
@@ -79,7 +79,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 7;W15;W;MB_lobe;5;886625;2376613.137;
 7;W15;W;MB_lobe2;6;733427;1965963.336;
 7;W15;W;Noduli;7;11098;29748.37456;
-7;W15;W;central_complex_body;8;143989;385964.922;
+7;W15;W;Central_complex_body;8;143989;385964.922;
 7;W15;W;PB;9;18477;49527.90743;
 7;W15;W;AL;10;1059736;2840640.067;
 7;W15;W;RCB;11;8957664;24011168.12;
@@ -91,7 +91,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 8;W16;W;MB_lobe;5;512311;2008389.732;
 8;W16;W;MB_lobe2;6;495479;1942404;
 8;W16;W;Noduli;7;7862;30821.04438;
-8;W16;W;central_complex_body;8;78656;308351.573;
+8;W16;W;Central_complex_body;8;78656;308351.573;
 8;W16;W;PB;9;12327;48324.98272;
 8;W16;W;AL;10;666520;2612928.326;
 8;W16;W;RCB;11;5582321;21884121.51;
@@ -103,7 +103,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 9;W17;W;MB_lobe;5;697972;2102528.523;
 9;W17;W;MB_lobe2;6;629536;1896376.067;
 9;W17;W;Noduli;7;7327;22071.41044;
-9;W17;W;central_complex_body;8;104944;316126.9411;
+9;W17;W;Central_complex_body;8;104944;316126.9411;
 9;W17;W;PB;9;9994;30105.3195;
 9;W17;W;AL;10;937959;2825450.808;
 9;W17;W;RCB;11;7581713;22838692.44;
@@ -115,7 +115,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 10;R17;R;MB_lobe;5;243093;1551497.762;
 10;R17;R;MB_lobe2;6;239455;1528278.875;
 10;R17;R;Noduli;7;4646;29652.26724;
-10;R17;R;central_complex_body;8;43885;280088.1937;
+10;R17;R;Central_complex_body;8;43885;280088.1937;
 10;R17;R;PB;9;9862;62942.45793;
 10;R17;R;AL;10;319320;2038003.008;
 10;R17;R;RCB;11;3227735;20600443.57;
@@ -127,7 +127,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 11;N18;N;MB_lobe;5;192325;1429992.581;
 11;N18;N;MB_lobe2;6;177835;1322255.196;
 11;N18;N;Noduli;7;3339;24826.4408;
-11;N18;N;central_complex_body;8;41215;306445.5698;
+11;N18;N;Central_complex_body;8;41215;306445.5698;
 11;N18;N;PB;9;4049;30105.4983;
 11;N18;N;AL;10;247001;1836524.62;
 11;N18;N;RCB;11;2508188;18649110.78;
@@ -139,7 +139,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 12;R19;R;MB_lobe;5;245835;1543706.818;
 12;R19;R;MB_lobe2;6;231242;1452070.909;
 12;R19;R;Noduli;7;3498;21965.49087;
-12;R19;R;central_complex_body;8;43495;273124.364;
+12;R19;R;Central_complex_body;8;43495;273124.364;
 12;R19;R;PB;9;9767;61331.3177;
 12;R19;R;AL;10;303195;1903895.656;
 12;R19;R;RCB;11;2752044;17281302.85;
@@ -151,7 +151,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 13;N19;N;MB_lobe;5;476733;1125796.239;
 13;N19;N;MB_lobe2;6;495442;1169977.2;
 13;N19;N;Noduli;7;7632;18022.82808;
-13;N19;N;central_complex_body;8;107021;252728.1294;
+13;N19;N;Central_complex_body;8;107021;252728.1294;
 13;N19;N;PB;9;18150;42860.89225;
 13;N19;N;AL;10;741654;1751402.324;
 13;N19;N;RCB;11;6594603;15573034.08;
@@ -163,7 +163,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 14;N20;N;MB_lobe;5;535532;1546886.595;
 14;N20;N;MB_lobe2;6;496351;1433712.1;
 14;N20;N;Noduli;7;9242;26695.55864;
-14;N20;N;central_complex_body;8;113350;327411.9857;
+14;N20;N;Central_complex_body;8;113350;327411.9857;
 14;N20;N;PB;9;19823;57258.82481;
 14;N20;N;AL;10;915193;2643539.104;
 14;N20;N;RCB;11;7507369;21685069.18;
@@ -175,7 +175,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 15;W20;W;MB_lobe;5;751791;2171551.69;
 15;W20;W;MB_lobe2;6;729687;2107704.187;
 15;W20;W;Noduli;7;13079;37778.75042;
-15;W20;W;central_complex_body;8;107533;310609.555;
+15;W20;W;Central_complex_body;8;107533;310609.555;
 15;W20;W;PB;9;17280;49913.35785;
 15;W20;W;AL;10;938465;2710760.38;
 15;W20;W;RCB;11;8307268;23995581.04;
@@ -187,7 +187,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 16;R21;R;MB_lobe;5;356647;1801433.393;
 16;R21;R;MB_lobe2;6;330347;1668591.4;
 16;R21;R;Noduli;7;5779;29189.88124;
-16;R21;R;central_complex_body;8;67952;343227.3421;
+16;R21;R;Central_complex_body;8;67952;343227.3421;
 16;R21;R;PB;9;10526;53167.1033;
 16;R21;R;AL;10;450735;2276674.359;
 16;R21;R;RCB;11;4535019;22906500.44;
@@ -199,7 +199,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 17;W21;W;MB_lobe;5;492868;2489488.782;
 17;W21;W;MB_lobe2;6;492005;2485129.747;
 17;W21;W;Noduli;7;5327;26906.81226;
-17;W21;W;central_complex_body;8;74257;375073.9924;
+17;W21;W;Central_complex_body;8;74257;375073.9924;
 17;W21;W;PB;9;9591;48444.38452;
 17;W21;W;AL;10;628008;3172084.354;
 17;W21;W;RCB;11;4505769;22758753.62;
@@ -211,7 +211,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 18;R22;R;MB_lobe;5;305138;1688059.375;
 18;R22;R;MB_lobe2;6;299551;1657151.432;
 18;R22;R;Noduli;7;4290;23732.78555;
-18;R22;R;central_complex_body;8;57142;316116.2778;
+18;R22;R;Central_complex_body;8;57142;316116.2778;
 18;R22;R;PB;9;12054;66684.14849;
 18;R22;R;AL;10;328351;1816476.426;
 18;R22;R;RCB;11;3648766;20185403.5;
@@ -223,7 +223,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 19;W22;W;MB_lobe;5;865773;2105193.273;
 19;W22;W;MB_lobe2;6;808506;1965944.182;
 19;W22;W;Noduli;7;8257;20077.52708;
-19;W22;W;central_complex_body;8;121478;295383.0489;
+19;W22;W;Central_complex_body;8;121478;295383.0489;
 19;W22;W;PB;9;18427;44806.65999;
 19;W22;W;AL;10;960290;2335018.588;
 19;W22;W;RCB;11;8132361;19774457.82;
@@ -235,7 +235,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 20;R25;R;MB_lobe;5;245859;1062514.092;
 20;R25;R;MB_lobe2;6;250251;1081494.735;
 20;R25;R;Noduli;7;3730;16119.71725;
-20;R25;R;central_complex_body;8;50526;218355.1834;
+20;R25;R;Central_complex_body;8;50526;218355.1834;
 20;R25;R;PB;9;9718;41997.69766;
 20;R25;R;AL;10;311586;1346562.526;
 20;R25;R;RCB;11;3434569;14842970.82;
@@ -247,7 +247,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 21;N6;N;MB_lobe;5;283656;1564107.841;
 21;N6;N;MB_lobe2;6;282372;1557027.736;
 21;N6;N;Noduli;7;3730;20567.59684;
-21;N6;N;central_complex_body;8;54806;302205.821;
+21;N6;N;Central_complex_body;8;54806;302205.821;
 21;N6;N;PB;9;9219;50834.49738;
 21;N6;N;AL;10;384067;2117784.24;
 21;N6;N;RCB;11;3528922;19458832.43;
@@ -259,7 +259,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 22;N21;N;MB_lobe;5;433196;1565325.601;
 22;N21;N;MB_lobe2;6;427574;1545010.87;
 22;N21;N;Noduli;7;6471;23382.53808;
-22;N21;N;central_complex_body;8;81565;294729.8282;
+22;N21;N;Central_complex_body;8;81565;294729.8282;
 22;N21;N;PB;9;11341;40979.96668;
 22;N21;N;AL;10;499022;1803183.576;
 22;N21;N;RCB;11;5326746;19247850.59;
@@ -271,7 +271,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 23;R24;R;MB_lobe;5;269835;688708.0345;
 23;R24;R;MB_lobe2;6;300036;765790.9605;
 23;R24;R;Noduli;7;5486;14002.08378;
-23;R24;R;central_complex_body;8;65028;165972.9319;
+23;R24;R;Central_complex_body;8;65028;165972.9319;
 23;R24;R;PB;9;12119;30931.69037;
 23;R24;R;AL;10;444672;1134949.799;
 23;R24;R;RCB;11;4409241;11253839.21;
@@ -283,7 +283,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 24;R18;R;MB_lobe;5;366719;1543745.188;
 24;R18;R;MB_lobe2;6;361232;1520647.04;
 24;R18;R;Noduli;7;4422;18614.91012;
-24;R18;R;central_complex_body;8;79208;333435.0521;
+24;R18;R;Central_complex_body;8;79208;333435.0521;
 24;R18;R;PB;9;17253;72628.45867;
 24;R18;R;AL;10;490521;2064903.737;
 24;R18;R;RCB;11;4445369;18713284.57;
@@ -295,7 +295,7 @@ Ind_anon;Indiv_ID;Group;Brain_region;Label;Count;Volume [nm^3];Problematic_zone
 25;N16;N;MB_lobe;5;438042;1323817.473;
 25;N16;N;MB_lobe2;6;435278;1315464.321;
 25;N16;N;Noduli;7;7692;23246.18188;
-25;N16;N;central_complex_body;8;89499;270477.1232;
+25;N16;N;Central_complex_body;8;89499;270477.1232;
 25;N16;N;PB;9;9949;30067.11694;
 25;N16;N;AL;10;661412;1998869.429;
 25;N16;N;RCB;11;5452248;16477372.42;
